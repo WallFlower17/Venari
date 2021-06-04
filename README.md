@@ -1,3 +1,3 @@
 # Venari
 
-Some Description
+Some description.

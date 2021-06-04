@@ -1,3 +1,0 @@
-# Venari
-
-Some description...
